@@ -1,0 +1,155 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif\;
+}
+.header{
+    margin: 20px;
+    margin-right: 50px;
+    margin-bottom: 140px;
+}
+.section-title{
+    display: flex;
+}
+
+.header-titile img{
+   width: 800px;
+   height: 750px; 
+
+}
+.header-text {
+    margin-top: 216px;
+    text-align: center;
+}
+.header-text h1{
+    font-size: 65px;
+    text-align: right;
+    margin-bottom: 24px;
+}
+.header-text p{
+    font-size: 16px;
+    text-align: right;
+    font-weight: 400;
+    color: #656565;
+    margin-bottom: 20px;
+}
+.btn{
+    height: 64px;
+    border-radius: 5px;
+    background: #FD6E0A;
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+    border: 0;
+    padding: 18px 35px;   
+    text-align: right;
+}
+
+/* about */
+.about{
+    margin: 50px;
+    margin-bottom: 100px;
+}
+.about-title{
+display: flex;
+margin-bottom: 50px;
+}
+.img-banner{
+    background-image: url(images/header_bg.png);
+    background-repeat: no-repeat;
+    background-position: bottom left;
+   
+}
+.about-text{
+    margin-bottom: 50px;
+}
+.about-text h1{
+    font-size:40px;
+    font-weight: 700;
+    color: #151414;
+    margin-bottom: 24px;
+    text-align: center;
+}
+.about-text p{
+
+    text-align: center;
+    margin-bottom: 54px;
+    color: #FD6E0A;
+}
+.about-text h6{
+    text-align: center;
+    color: #444343;
+    font-size: 16px;
+    margin-top: 8px;
+ 
+}
+
+.about-text h6 img{
+    width: 24px;
+    height: 24px;
+}
+.about-1 {
+    margin: 70px;
+}
+.about-1 h1{
+ font-size: 40px;
+ font-weight: 700;
+ color: #151414;
+ text-align: center;
+ font-family: cursive;
+ margin-bottom: 50px;
+}
+.plan{
+    display: flex;
+    text-align: center;
+    /* margin-left: 360px; */
+     justify-content: space-around;
+     margin-top: 50px;
+}
+
+.plan img , h4 ,p{
+    margin-top: 15px;
+}
+
+/* footer */
+/* footer{
+    background-color:#656565;
+} */
+.footer-main{
+    margin: 50px;
+}
+.footer1{
+    display: flex;
+   /* margin-left: px; */
+}
+.footer-des{
+    margin-left: 700px;
+}
+
+.footer-title h1{
+    font-size: 45px;
+    font-weight: 700;
+    font-family:'Courier New', Courier, monospace ;
+    margin-bottom: 16px;
+}
+.footer-title p{
+    font-size: 16px;
+    font-weight: 400;
+    color: #656565; 
+}
+
+.footer-des h1{
+    font-size: 45px;
+    font-weight: 600;
+    color: #1a1717;
+    margin-bottom: 45px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.footer-des input{
+    font-size: 18px;
+    padding: 10px;
+    border-radius: 10px;  
+    margin-bottom: 42px;
+}
+
+ 
